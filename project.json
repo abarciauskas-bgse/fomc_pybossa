@@ -1,0 +1,6 @@
+{
+    "name": "FOMC Minutes Redundancy Evaluation",
+    "short_name": "fomc",
+    "description": "Evaluate redundancy in FOMC minutes",
+    "question": "Are these sentences redundant?"
+}
